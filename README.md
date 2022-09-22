@@ -1,5 +1,5 @@
 ## Hi, bored visitor!
-My name is Bryan. I'm a student.
+My name is Bryan.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=byung806)
 
