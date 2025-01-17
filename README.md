@@ -1,11 +1,11 @@
 ### Hello! 👋
 
-#### High school competitive programmer, researcher, and app developer;
+#### High school competitive programmer, researcher, educator, and app developer;
 
 Building [Runway Mobile App](https://runwaymobile.app);<br>
 
 - ⚙️ I use: `.py`, `.java`, `.cpp`, `.js`, `.tsx`
-- 💡 Interested in: **competitive programming**, **app development**
+- 💡 Interested in: **competitive programming**, **teaching**, **app development**
 - 💬 `ping` me about **coding**, **cool UI ideas**, **weird bugs**
 
 ![Visitor Count](https://profile-counter.glitch.me/byung806/count.svg)<br>
