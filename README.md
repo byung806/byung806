@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-#### High school competitive programmer, researcher, educator, and app developer;
+#### Competitive programmer, researcher, educator, and app developer;
 
 Building [Runway Mobile App](https://runwaymobile.app);<br>
 
