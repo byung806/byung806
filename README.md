@@ -2,13 +2,13 @@
 
 #### Competitive programmer, researcher, educator, and app developer;
 
-Building [Runway Mobile App](https://runwaymobile.app);<br>
+Studying computer science at Carnegie Mellon University;<br>
 
 - ⚙️ I use: `.py`, `.java`, `.cpp`, `.js`, `.tsx`
-- 💡 Interested in: **competitive programming**, **teaching**, **app development**
-- 💬 `ping` me about **coding**, **cool UI ideas**, **weird bugs**
+- 💡 Interested in: **3D**, **AI**, **competitive programming**, **app development**
+- 💬 `ping` me about **development**, **AI ethics**, **human-oriented design**
 
-![Visitor Count](https://profile-counter.glitch.me/byung806/count.svg)<br>
+<!---![Visitor Count](https://profile-counter.glitch.me/byung806/count.svg)<br>--->
 <sub><sup>**README inspired by [caneco](https://github.com/caneco)**</sup></sub>
 
 <!---
