@@ -7,6 +7,7 @@ Studying computer science at Carnegie Mellon University;<br>
 - ⚙️ I use: `.py`, `.java`, `.cpp`, `.js`, `.tsx`
 - 💡 Interested in: **3D**, **AI**, **competitive programming**, **app development**
 - 💬 `ping` me about **development**, **AI ethics**, **human-oriented design**
+- 🌐 My projects: [bryan-yung.com](https://bryan-yung.com)
 
 <!---![Visitor Count](https://profile-counter.glitch.me/byung806/count.svg)<br>--->
 <sub><sup>**README inspired by [caneco](https://github.com/caneco)**</sup></sub>
